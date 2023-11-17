@@ -1,0 +1,11 @@
+Hello Sir/Mam,
+	This Documentation helps you to understand my android studio project for developing a calculator application.
+The app's name is "Calkulator", I've implemented the UI design using LinearLayout to arrange the Result text field and buttons.
+To differnetiate the numbers, operators and delete buttons, they are been displayed in different colors.
+	Each button has its own functions been implemented in the mainActivity.java file, where when each buttons are clicked 
+an EventListener listens for clicks and the corresponding functions are done. The entered numbers, operators and results are 
+displayed in the Result Layout.
+	The application can run on devices above API Level 27.
+	Thus the calculator application is developed and run on emulators and phone.
+	
+						Thank You!!!
